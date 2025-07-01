@@ -199,7 +199,9 @@ const About = () => {
           Hello, I'm <TypingAnimation text="Vikas Yadav" speed={150} />
         </h1>
         <p className="text-gray-400 mb-10 text-lg italic leading-relaxed tracking-wide">
-          Full-stack and backend developer with a focus on real-time systems, AI integrations, and fintech performance. Skilled in FastAPI, Python, Node.js, and React. Strong in system design, algorithms, and scalable backend architecture. Passionate about building impactful solutions in finance, payroll, and analytics.
+          Developer with strong full-stack and backend expertise, experienced in real-time systems, WebRTC, and AI-powered
+          applications. Passionate about building performant, scalable fintech solutions using FastAPI, Python, Node.js, React, and
+          MongoDB. Strong foundation in data structures, algorithms, and system design. 
         </p>
 
         <div className="flex justify-center md:justify-start space-x-4">
