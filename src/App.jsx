@@ -300,17 +300,17 @@ const Experience = () => {
       title: 'Frontend Developer',
       company: 'Fintelelect',
       duration: '25-April-2025 - Present',
-      description: 'Working as a frontend developer, contributing to the development and enhancement of user interfaces.',
-      icon: '✨' 
+      description: 'Spearheading the development of the company’s main website using React, building responsive and dynamic user interfaces, optimizing performance, and ensuring a seamless user experience across devices.',
+      icon: '⚛️' 
     },
     {
-      title: 'Internship',
-      company: 'MakeInnovative',
+      title: 'Web Developer',
+      company: 'Kartify Clothing',
       duration: '02-02-2024 - 12-18-2024',
-      description: 'Developed and maintained websites through WordPress, gaining hands-on experience in web development.',
-      icon: '🌱' 
-    },
-
+      description: 'Designed and developed a fully functional e-commerce website using the MERN stack (MongoDB, Express.js, React, Node.js), integrating features like user authentication, product management, and responsive UI.',
+      icon: '🖥️'
+    }
+    
   ];
 
   return (
