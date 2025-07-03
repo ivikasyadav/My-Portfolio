@@ -261,7 +261,7 @@ const Skills = () => {
     { name: 'Material UI', icon: '🎨', description: 'React component library implementing Google\'s Material Design.' },
     { name: 'MySQL', icon: '🗄️', description: 'Open-source relational database management system.' },
     { name: 'Firebase', icon: '🔥', description: 'Google\'s mobile and web application development platform.' },
-    { name: 'Docker', icon: '🐳', description: 'Platform for developing, shipping, and running applications in containers.' },
+    // { name: 'Docker', icon: '🐳', description: 'Platform for developing, shipping, and running applications in containers.' },
     { name: 'Figma', icon: '📐', description: 'Collaborative interface design tool.' },
     { name: 'Git', icon: '�', description: 'Version control system for collaborative development.' },
     { name: 'Responsive Design', icon: '📱', description: 'Ensuring web applications look great on all devices.' },
